@@ -1,6 +1,5 @@
 <h1 align="center">
- ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=21&duration=5002&pause=1000&color=F0F7F2&center=true&width=435&lines=Hi%2C+I'm+Your+Name)
-
+ ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=21&duration=5002&pause=1000&color=F0F7F2&center=true&width=435&lines=Hi%2C+I'm+Zangetsu)
 </h1>
 <h3 align="center">Full-Stack Developer | Building Scalable MERN Applications with a Focus on Tailored User Experiences</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
