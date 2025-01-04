@@ -10,10 +10,10 @@ I'm a mern stack developer with a flair for building modern, scalable web applic
 Passionate about clean, maintainable code (because future me deserves better), I’m constantly leveling up in database optimization, payment integrations, and advanced testing strategies. Problem-solving is my jam, and I’m all about delivering impactful, high-quality solutions—preferably without too much swearing at the console.<br>
 I'm all about cracking some codes.Let's get Coding!!🥷🏽
 
-<div id="content" align="center" style="display: flex; justify-content: center; align-items: center; margin-bottom: 30px;">
-  <img align="" src="https://media.giphy.com/media/jRf5fsn8G6YaogAWxn/giphy.gif" width="350" height="350"/>
+<div id="content" align="center" style="margin-top: -10px; margin-bottom: 30px;">
+  <img align="" src="https://media.giphy.com/media/jRf5fsn8G6YaogAWxn/giphy.gif" width="300" height="300"/>
 
-  <div id="badges" style="margin-top: 20px;">
+  <div id="badges" style="margin-top: 50px;">
     <span style="display: inline-flex; gap: 10px; align-items: center;">
       <a href="https://x.com/jibreel_fahd" target="_blank">
       <img src="https://img.shields.io/badge/Tweet-black?style=for-the-badge&logo=X&logoSize=auto" alt="Twitter Badge" />
