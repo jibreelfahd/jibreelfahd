@@ -7,7 +7,7 @@
 </div>
 
 I'm a mern stack developer with a flair for building modern, scalable web applications—basically, I turn coffee into code and bugs into features. Proficient in React, Node.js, Express, MongoDB, and PostgreSQL, I specialize in crafting smooth user experiences and efficient backend systems (yes, I talk to databases alot🥲).<br>
-Passionate about clean, maintainable code (because future me deserves better), I’m constantly leveling up in database optimization, payment integrations, and advanced testing strategies. Problem-solving is my jam, and I’m all about delivering impactful, high-quality solutions—preferably without too much swearing at the console.<br>
+Passionate about clean, maintainable code (because future me deserves better), I’m constantly leveling up in database optimization, payment integrations, and advanced testing strategies. Problem-solving is my jam, and also delivering impactful, high-quality solutions—preferably without too much swearing at the console.<br>
 I'm all about cracking some codes. Let's get Coding!!🥷🏽
 
 <div id="content" align="center">
