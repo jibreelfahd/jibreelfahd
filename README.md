@@ -10,11 +10,11 @@ I'm a mern stack developer with a flair for building modern, scalable web applic
 Passionate about clean, maintainable code (because future me deserves better), I’m constantly leveling up in database optimization, payment integrations, and advanced testing strategies. Problem-solving is my jam, and I’m all about delivering impactful, high-quality solutions—preferably without too much swearing at the console.<br>
 I'm all about cracking some codes.Let's get Coding!!🥷🏽
 
-<div id="content" align="center" style="margin-top: -10px; margin-bottom: 30px;">
+<div id="content" align="center">
   <img align="" src="https://media.giphy.com/media/jRf5fsn8G6YaogAWxn/giphy.gif" width="300" height="300"/>
 
-  <div id="badges" style="margin-top: 50px;">
-    <span style="display: inline-flex; gap: 10px; align-items: center;">
+  <div id="badges">
+    <span>
       <a href="https://x.com/jibreel_fahd" target="_blank">
       <img src="https://img.shields.io/badge/Tweet-black?style=for-the-badge&logo=X&logoSize=auto" alt="Twitter Badge" />
       </a>
@@ -23,7 +23,7 @@ I'm all about cracking some codes.Let's get Coding!!🥷🏽
       </a>
     </span>
 
-  <div id="Profile Visits" style="margin-right: 0px">
+  <div id="Profile Visits">
 
 ![Profile Visits](https://komarev.com/ghpvc/?username=jibreelfahd&abbreviated=true&color=blue&style=for-the-badge)
 
@@ -32,7 +32,7 @@ I'm all about cracking some codes.Let's get Coding!!🥷🏽
   </div>
 </div>
 
-<div align="center" style="margin-left: -50px;">
+<div align="center">
 
 [![Github Trophies](https://github-profile-trophy.vercel.app/?username=jibreelfahd&theme=nord&margin-w=15)](https://github.com/jibreelfahd/github-profile-trophy)
 
@@ -79,7 +79,7 @@ I'm all about cracking some codes.Let's get Coding!!🥷🏽
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jibreelfahd&theme=react&layout=donut&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
-<picture style="margin-bottom: 31000px;">
+<picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=jibreelfahd&hide=issues&show_icons=true&theme=react&hide_border=true"
     media="(prefers-color-scheme: dark)"
