@@ -11,7 +11,7 @@ Passionate about clean, maintainable code (because future me deserves better), I
 I'm all about cracking some codes.Let's get Coding!!🥷🏽
 
 <div id="content" align="center">
-  <img align="" src="https://media.giphy.com/media/jRf5fsn8G6YaogAWxn/giphy.gif" width="300" height="300"/>
+  <img align="" src="https://media.giphy.com/media/jRf5fsn8G6YaogAWxn/giphy.gif" width="250" height="250"/>
 
   <div id="badges">
     <span>
