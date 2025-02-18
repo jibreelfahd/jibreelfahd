@@ -52,7 +52,7 @@ I'm all about cracking some codes. Let's get Coding!!🥷🏽
 
 - 📄 Want to know what my skills and experiences are, [peep my resume](https://drive.google.com/file/d/1LCAv7OVaVp_44f4YsDoPumcH9oq6DqYH/view?usp=sharing)
 
-- ⚡ Fun fact; **I love amime** and I'm an entreprenuer during my free time
+- ⚡ Fun fact; **I love anime** and I'm an entreprenuer during my free time.
 
 ---
 
