@@ -50,7 +50,7 @@ I'm all about cracking some codes. Let's get Coding!!🥷🏽
 
 - 📫 You can reach through my [Mail Box](mailto:jibreelfahd@gmail.com)
 
-- 📄 Want to know what my skills and experiences are, [peep my resume](https://drive.google.com/file/d/1LCAv7OVaVp_44f4YsDoPumcH9oq6DqYH/view?usp=sharing)
+- 📄 Want to know what my skills and experiences are, [peep my resume](https://drive.google.com/file/d/1wgxXxbsRhMfR4YfYf8TDHpvJ3zW2EZri/view?usp=drive_link)
 
 - ⚡ Fun fact; **I love anime** and I'm an entreprenuer during my free time.
 
